@@ -1,0 +1,45 @@
+# =============== #
+# Unity generated #
+# =============== #
+/Library/
+# 由 Unity 生成的快取與編譯檔，應排除
+
+/Temp/
+/Obj/
+/Logs/
+/MemoryCaptures/
+/Build/
+/Builds/
+/ExportedObj/
+
+# =============== #
+# Visual Studio / MonoDevelop generated #
+# =============== #
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.vscode/
+
+# =============== #
+# OS-generated files #
+# =============== #
+.DS_Store
+Thumbs.db
+
+# =============== #
+# Others (可依需求增補) #
+# =============== #
+# 例如：若使用 Steamworks SDK 或其他 Plugin，排除無需版本控管的檔案
+# /Steamworks.NET/
